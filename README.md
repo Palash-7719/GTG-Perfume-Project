@@ -10,7 +10,7 @@ This is a pixel-perfect, fully responsive webpage built from a Figma design usin
 
 ## 🚀 Live Demo
 
-[Live Site](https://your-deployment-link.com)
+[Live Site](https://palash-7719.github.io/GTG-Perfume-Project/)
 
 ## 🛠️ Tech Stack
 
